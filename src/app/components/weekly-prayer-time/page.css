@@ -1,0 +1,11 @@
+#weeklyTable{
+    color: white;
+    width: 75%;
+    border-collapse: collapse;
+    border-color: gold;
+    margin: 0 auto;
+}
+
+#weeklyTable thead *, #weeklyTable tbody *{
+    margin: 5px;
+}

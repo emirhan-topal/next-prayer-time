@@ -1,0 +1,20 @@
+#monthlyDiv{
+    height: 250px;
+    overflow: auto;
+    width: 75%;
+    margin: 0 auto;
+}
+
+#monthlyTable{
+    border-collapse: collapse;
+    color: white;
+    width: 100%;
+    border-color: gold;
+}
+
+#monthlyTable th{
+    position: sticky;
+    top: 0;
+    color: gold;
+    background-color: black;
+}

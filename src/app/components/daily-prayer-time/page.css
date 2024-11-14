@@ -1,0 +1,8 @@
+#dailyTable{
+    border: 1px solid gold;
+    overflow: auto;
+    border-collapse: collapse;
+    color: white;
+    width: 75%;
+    margin: 0 auto;
+}

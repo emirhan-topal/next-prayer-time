@@ -1,0 +1,24 @@
+#yearlyTable{
+    border-collapse: collapse;
+    border-color: gold;
+    color: #ffffff;
+    width: 100%;
+}
+
+#yearlyTable thead *, #yearlyTable tbody *{
+    margin: 5px;
+}
+
+#yearlyTable th{
+    position: sticky;
+    top: 0;
+    color: gold;
+    background-color: black;
+}
+
+#yearlyDiv{
+    height: 250px;
+    overflow: auto;
+    display: inline-block;
+    width: 75%;
+}
